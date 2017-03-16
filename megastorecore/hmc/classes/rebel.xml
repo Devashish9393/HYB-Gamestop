@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="/home/reflex/workspace-exp/HYBRISCOMM6000P_0-80001481/hybris/bin/custom/megastore/megastorecore/hmc/classes" />
+  </classpath>
+</application>
